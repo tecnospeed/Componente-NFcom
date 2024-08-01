@@ -1,8 +1,6 @@
 ﻿# Componente NFCom
 
-A NFCom TecnoSpeed é uma solução pronta para ser integrada ao seu software, que realiza todas as etapas de emissão da Nota Fiscal Eletrônica, desde a geração do XML até a impressão do DANFe.
-
-![alt text](https://tecnospeed.com.br/images/workflow-nfe.svg "Fluxo de emissão NFe")
+A NFCom TecnoSpeed é uma solução pronta para ser integrada ao seu software, que realiza todas as etapas de emissão da Nota Fiscal Eletrônica, desde a geração do XML até a impressão do DANFCom.
 
 Uma vez integrado, você não se preocupa mais com NFCom: nossa plataforma cuida de tudo para você, mantendo-se sempre atualizada de acordo com a legislação vigente.
 
