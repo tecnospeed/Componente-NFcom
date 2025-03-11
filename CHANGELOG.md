@@ -4,6 +4,7 @@
 
 * 10.03.27 | DSML-1550 - DANFE-COM Montar o RTM Modelo 1
 * 10.03.27 | DSML-1549 - DANFE-COM Gerar Dataset de impressão para mapeamento de dados PART 2
+* 10.03.27 | DSML-1553 - compatibilizado autenticação para o padrão oAuth2
 * 10.03.27 | DSML-1548 - criação do dataset de impressão
 * 10.03.27 | DSML-1547 - criação do layout de impressão 1
 * 10.03.27 | DSML-1608 - otimização do layout de impressão
