@@ -1,4 +1,10 @@
-﻿## [1.1.1.24]
+﻿## [1.1.2.26]
+
+**Correção**
+
+* 25.04.28 | DSML-1667 - Corrigindo o RTM para ser formatado corretamente a data de referência.Corrigindo o RTM para ser formatado corretamente a data de referência.
+
+## [1.1.1.24]
 
 **Novidades**
 
@@ -20,6 +26,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
