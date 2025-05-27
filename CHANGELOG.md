@@ -1,4 +1,8 @@
-﻿## [1.1.2.26]
+﻿## [1.1.3.28]
+
+25.05.27 | DSML-1792 - Ajustando geração de XML por JSON quando conter chaves repetidas
+
+## [1.1.2.26]
 
 **Correção**
 
@@ -26,6 +30,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
