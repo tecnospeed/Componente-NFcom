@@ -12,6 +12,6 @@ Veja como é fácil integrar a NFCom TecnoSpeed ao seu software
 
 ***
 
-**Para baixar a versão Trial, [clique aqui](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/setup_nfcom_trial_1.1.2.26.exe "Baixar o Componente NFCom Trial")**.
+**Para baixar a versão Trial, [clique aqui](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/setup_nfcom_trial_1.1.3.28.exe "Baixar o Componente NFCom Trial")**.
 
 **Para ver uma lista com o histórico de mudanças, [clique aqui](https://github.com/tecnospeed/Componente-NFe/blob/master/CHANGELOG.md "Changelog").**
