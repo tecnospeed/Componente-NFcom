@@ -1,4 +1,9 @@
-﻿## [1.1.3.28]
+﻿## [1.1.4.32]
+
+- [CLML-3028](https://tecnospeed.atlassian.net/browse/CLML-3028) - Adequação dos webservices de MT e MS
+- [CLML-3052](https://tecnospeed.atlassian.net/browse/CLML-3052) - Problema de Impressão no Campo PINS/COFINS
+
+## [1.1.3.28]
 
 25.05.27 | DSML-1792 - Ajustando geração de XML por JSON quando conter chaves repetidas
 
@@ -30,6 +35,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
