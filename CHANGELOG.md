@@ -1,4 +1,15 @@
-﻿## [1.1.4.32]
+﻿## [2.1.0.1]
+
+**Novidades**
+
+- CLML-3148 NT2025.001 - adequação a [revisão v1.06 e v1.07](https://forum.casadodesenvolvedor.com.br/topic/49353-%E2%80%8B%E2%98%8E%EF%B8%8F%E2%80%8Bnfcom-publicada-nota-t%C3%A9cnica-2025001-v106-com-implementa%C3%A7%C3%B5es-da-reforma-tribut%C3%A1ria-do-consumo/#findComment-54787) 
+
+
+- [CLML-2960](https://tecnospeed.atlassian.net/browse/CLML-2960) - Atualizando o componente com a [NT 2025.001](https://blog.tecnospeed.com.br/nfcom-nota-tecnica-reforma-tributaria/).
+
+- [CLML-3076](https://tecnospeed.atlassian.net/browse/CLML-3076) - Atualizando o componente com a [NT 2025.001](https://blog.tecnospeed.com.br/nfcom-nota-tecnica-reforma-tributaria/)
+
+## [1.1.4.32]
 
 - [CLML-3028](https://tecnospeed.atlassian.net/browse/CLML-3028) - Adequação dos webservices de MT e MS
 - [CLML-3052](https://tecnospeed.atlassian.net/browse/CLML-3052) - Problema de Impressão no Campo PINS/COFINS
@@ -35,6 +46,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
