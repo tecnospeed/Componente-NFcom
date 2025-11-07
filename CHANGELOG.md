@@ -1,4 +1,16 @@
-﻿## [2.1.0.1]
+﻿## [2.1.1.7]
+
+**Novidades**
+
+* [DSML-1906](https://tecnospeed.atlassian.net/browse/DSML-1906) - Atualizando XSD's com a NT [2025.001 V1.09](https://blog.tecnospeed.com.br/nfcom-nota-tecnica-reforma-tributaria/).
+* [DSML-1927](https://tecnospeed.atlassian.net/browse/DSML-1927) - Compatibilizando o componente com a[ ](https://blog.tecnospeed.com.br/eventos-reforma-tributaria-nfe-nfce/)[NT 2025.001 v1.10](https://blog.tecnospeed.com.br/nfcom-nota-tecnica-reforma-tributaria/)
+* [DSML-1912](https://tecnospeed.atlassian.net/browse/DSML-1912) - Atualização url arquivos servidores, homologação e produção.
+
+**Correções**
+
+* [DSML-1875](https://tecnospeed.atlassian.net/browse/DSML-1875) - Ajustando RTM's para imprimir corretamente a tarja de emissão feita em homologação
+
+## [2.1.0.1]
 
 **Novidades**
 
@@ -46,6 +58,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
