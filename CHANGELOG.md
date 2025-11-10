@@ -1,4 +1,11 @@
-﻿## [2.1.1.7]
+﻿## [2.1.2.9]
+
+**Correção**
+
+* DSML-1951 Corrigindo o campo infCpl da impressão a ter o tamanho de 3000 caracteres
+* [DSML-1942](https://tecnospeed.atlassian.net/browse/DSML-1942) - Correção nos métodos de Envio de Email EnviaEmailXMLNFCom, EmailXMLComDestinatario.
+
+## [2.1.1.7]
 
 **Novidades**
 
@@ -58,6 +65,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
