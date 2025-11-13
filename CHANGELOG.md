@@ -1,4 +1,10 @@
-﻿## [2.1.2.9]
+﻿## [2.1.3.10]
+
+**Novidades**
+
+* DSML-1955 - Mascara do telefone destinatario com 8, 9, 10 ou 11 caracteres e adicionado endereço do destinatario no RTM
+
+## [2.1.2.9]
 
 **Correção**
 
@@ -65,6 +71,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
