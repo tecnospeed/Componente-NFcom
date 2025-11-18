@@ -1,4 +1,11 @@
-﻿## [2.1.3.10]
+﻿## [2.1.4.13]
+
+**Novidades**
+
+* [DSML-1958](https://tecnospeed.atlassian.net/browse/DSML-1958) - Implementada própriedade "DiretórioLicense"
+* DSML-1955 Atualizados os RTMs faltantes e corrigido o valor da unidade pela sigla
+
+## [2.1.3.10]
 
 **Novidades**
 
@@ -71,6 +78,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
