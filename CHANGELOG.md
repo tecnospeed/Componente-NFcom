@@ -1,4 +1,8 @@
-﻿## [2.1.4.13]
+﻿## [2.1.4.15]
+
+* Corre&ccedil;&otilde;es e melhorias diversos.
+
+## [2.1.4.13]
 
 **Novidades**
 
@@ -78,6 +82,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
