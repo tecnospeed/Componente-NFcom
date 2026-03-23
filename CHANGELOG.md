@@ -1,4 +1,9 @@
-﻿## [2.1.4.19]
+﻿## [2.1.4.21]
+
+* ODSML-14363 - Ajustando link NFComConsultaQrCode para MG
+* ODSML-18219 - compatibilizado com Delphi 13 -Florence
+
+## [2.1.4.19]
 
 **Correções**
 
@@ -90,6 +95,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
