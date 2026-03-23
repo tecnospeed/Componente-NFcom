@@ -1,6 +1,10 @@
 ﻿## [2.1.4.19]
 
-* Corre&ccedil;&otilde;es e melhorias diversos.
+**Correções**
+
+* [DSML-1940](https://tecnospeed.atlassian.net/browse/DSML-1940) - Ajustes para ser impresso a tarja de cancelamento
+* [DSML-1949](https://tecnospeed.atlassian.net/browse/DSML-1949) - Corrigindo problema no método [ConsultarCadastro](https://atendimento.tecnospeed.com.br/hc/pt-br/articles/9851552748439-M%C3%A9todo-Consultar-o-cadastro-NFCom)
+* [DSML-1986](https://tecnospeed.atlassian.net/browse/DSML-1986) - Melhorias no DANFECOM
 
 ## [2.1.4.15]
 
