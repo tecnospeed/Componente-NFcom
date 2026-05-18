@@ -1,4 +1,15 @@
-﻿## [2.1.4.21]
+﻿## [2.1.4.24]
+
+**Novidades**
+
+* [ODSML-14354](http://odoo.tecnospeed.local/odoo/project/40/tasks/14354) - Ajustes da Reforma Tributaria 2026.001.
+* [ODSML-27932](http://odoo.tecnospeed.local/odoo/project/40/tasks/27932) - Criação dos eventos de vínculo de pagamento e cancelamento do vínculo de pagamento.
+
+**Correções**
+
+* [ODSML-26667](http://odoo.tecnospeed.local/odoo/project/40/tasks/26667) - Correção nos INI's de servidores para pegar corretamente as URL's de consulta de cadastro.
+
+## [2.1.4.21]
 
 * ODSML-14363 - Ajustando link NFComConsultaQrCode para MG
 * ODSML-18219 - compatibilizado com Delphi 13 -Florence
@@ -95,6 +106,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
