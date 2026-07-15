@@ -1,4 +1,10 @@
-﻿## [2.1.4.24]
+﻿## [2.1.4.27]
+
+**Novidades**
+
+* [ODSML-29366](http://odoo.tecnospeed.local/odoo/project/40/tasks/29366) - Compatibilizando o componente NFCom com a NT [2025.001 v 1.14](https://blog.tecnospeed.com.br/nfcom-nota-tecnica-reforma-tributaria/) e com o CNPJ alfanumerico
+
+## [2.1.4.24]
 
 **Novidades**
 
@@ -106,6 +112,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
