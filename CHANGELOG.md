@@ -1,4 +1,10 @@
-﻿## [2.1.4.27]
+﻿## [2.1.4.30]
+
+**Correções**
+
+* [ODSML-32457](http://odoo.tecnospeed.local/odoo/project/40/tasks/32457) - Corrigida a URL de consulta exibida no DANFE-COM de notas emitidas em Minas Gerais, garantindo o direcionamento para o portal oficial da SEFAZ-MG.
+
+## [2.1.4.27]
 
 **Novidades**
 
@@ -112,6 +118,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
