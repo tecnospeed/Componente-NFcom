@@ -1,4 +1,10 @@
-﻿## [2.1.4.30]
+﻿## [3.1.0.1]
+
+**Novidades**
+
+* [ODSML-30535](http://odoo.tecnospeed.local/odoo/project/40/tasks/30535) - Compatibilizando o componente NFCom com a NT [2026.002](https://blog.tecnospeed.com.br/nt-2026-002-reforma-tributaria-nfcom/)
+
+## [2.1.4.30]
 
 **Correções**
 
@@ -118,6 +124,7 @@
 ## [1.1.0.15]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
+
 
 
 
